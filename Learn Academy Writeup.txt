@@ -1,0 +1,36 @@
+ Developing a Backend Admin for Learner’s Academy
+
+DESCRIPTION
+Project objective:
+As a Full Stack Developer, design and develop a backend administrative portal 
+for the Learner’s Academy. Use the GitHub repository to manage the project 
+artifacts.
+Background of the problem statement:
+Learner’s Academy is a school that has an online management system. The 
+system keeps track of its classes, subjects, students, and teachers. It has a backoffice application with a single administrator login.
+Generic feature of the application
+We developed this application to know that list of classes ,students,teachers and 
+subjects.
+There will be an option to view a Class Report which will show all the information 
+about the class, such as the list of students, subjects, and teachers.
+Technologies and tools Used
+• Servlet: to do the business logic and works a controller for the project.
+• JSP: to handle the presentation view.
+• SQL: to create and manage the database.
+• JDBC: to make operations on the database for the project.
+• CSS: to format the contents.
+• Eclipse: to write and run the code.
+• Tomcat: to run and deploy servlet application.
+Pushing the code to your GitHub repositories:
+● Open your command prompt and navigate to the folder where you have 
+created your files.
+cd <folder path>
+● Initialize your repository using the following command:
+git init
+● Add all the files to your git repository using the following command:
+git add .
+● Commit the changes using the following command:
+git commit . -m “Changes have been committed.”
+● Push the files to the folder you initially created using the following 
+command:
+git push -u origin master
